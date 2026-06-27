@@ -1,6 +1,6 @@
 # iMessage Haha Leaderboard
 
-See who makes your group chat laugh the most — and who never does.
+See who makes your group chat laugh the most and who never does.
 
 Reads your iMessage history directly from your Mac and generates a leaderboard of Haha reactions for any group chat.
 
@@ -51,7 +51,7 @@ Edit `names.json` with your group's phone numbers and names:
 ```
 
 - `MY_NAME` is your own name (for messages you sent)
-- Keys are phone numbers in `+countrycode` format — works for any country
+- Keys are phone numbers in `+countrycode` format works for any country
 - Only people listed here are included in the report; everyone else is ignored
 
 **3. Run it**
@@ -64,7 +64,7 @@ You'll be shown a list of your group chats and asked to pick one. You can merge 
 
 ## Privacy
 
-`names.json` is gitignored — your contacts never leave your machine. The script reads `chat.db` locally and prints to your terminal. Nothing is uploaded anywhere.
+`names.json` is gitignored, your contacts never leave your machine. The script reads `chat.db` locally and prints to your terminal. Nothing is uploaded anywhere.
 
 ## Finding phone numbers
 
