@@ -4,6 +4,61 @@ See who makes your group chat laugh the most and who never does.
 
 Reads your iMessage history directly from your Mac and generates a leaderboard of Haha reactions for any group chat.
 
+## Example output
+
+```
+==============================================================
+                     HAHA LEADERBOARD
+                    Since August 04, 2024
+==============================================================
+
+  Jordan
+    Hahas Given:             342
+    Hahas Received:          891
+    Messages Sent:         1,204
+    Hahas Received/Msg:    0.740
+    Hahas Given/Msg:       0.284
+
+    Most laughed message (14 hahas):
+    > "bro i just walked into the wrong class and sat down for 10 minutes"
+    Context:
+      Alex: where are you
+      Sam: he's not here yet
+      Jordan: bro i just walked into the wrong class and sat down for 10 minutes
+
+  Alex
+    Hahas Given:             614
+    Hahas Received:          503
+    Messages Sent:         2,847
+    Hahas Received/Msg:    0.177
+    Hahas Given/Msg:       0.216
+
+    Most laughed message (9 hahas):
+    > "i set 7 alarms and slept through all of them"
+
+==============================================================
+              TOP 10 MOST LAUGHED MESSAGES
+==============================================================
+
+  #1 (14 hahas) — Jordan
+  "bro i just walked into the wrong class and sat down for 10 minutes"
+
+  #2 (11 hahas) — Sam
+  "my mom just texted me 'call me' with a period. i am not okay"
+
+  #3 (9 hahas) — Alex
+  "i set 7 alarms and slept through all of them"
+
+==============================================================
+         AWARDS  (based on hahas per message sent)
+==============================================================
+
+  Jester        — Jordan (0.740 hahas received/msg)
+  Brick         — Mike (0.031 hahas received/msg)
+  Chucklenuts   — Alex (0.216 hahas given/msg)
+  Debbie Downer — Sam (0.044 hahas given/msg)
+```
+
 ## What it shows
 
 **Per person:**
